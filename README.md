@@ -8,7 +8,9 @@ Further data information link: http://archive.ics.uci.edu/ml/datasets/Human+Acti
 
 Data link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The following files from the initial dataset is used:
+The dataset includes the following files:
+=========================================
+
   1. ***features.txt*** - includes the descriptions for features measured
   2. ***train/X_train.txt*** - includes the measurements of the features in train set (one row - 1 measurement of 561 features)
   3. ***test/X_test.txt*** - includes the measurements of the features in test set
