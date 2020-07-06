@@ -1,8 +1,12 @@
 **Getting & Cleaning Data - Course Project**
 ===========================================
 
-## Initial data for research
-The script is invented to analyze the data from [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). It's supposed that archive is extracted to the working directory.
+## Initial data set information
+The goal is to prepare tidy data that can be used for later analysis. The data in this project has been collected from the accelerometers from the Samsung Galaxy S II smartphone. The experiments have been carried out with a group of 30 volunteers within 19-48 years. Each person performed six activities: walking, walking_upstairs, walking_downstairs, sitting, standing, laying. Using the embedded accelerometer and gyroscope, it was captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected generating the training data and 30% the test data. 
+
+Further data information link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Data link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The following files from the initial dataset is used:
   1. ***features.txt*** - includes the descriptions for features measured
