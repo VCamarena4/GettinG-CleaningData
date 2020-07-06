@@ -1,5 +1,4 @@
 **Getting & Cleaning Data - Course Project**
-Course Project Coursera
 ===========================================
 
 ## Initial data for research
