@@ -1,2 +1,2 @@
-# GettinG-CleaningData
+# Getting-CleaningData
 Course Project Coursera
